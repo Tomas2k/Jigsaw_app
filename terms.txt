@@ -1,1 +1,29 @@
-service terms
+Terms of Service
+Last Updated: February 5, 2026
+
+1. Acceptance of Terms
+By downloading, installing, or using the Jigsaw_app (the "App"), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the App.
+
+2. Use of the App
+The App is provided for your personal, non-commercial use only. You agree not to:
+
+Modify, decompile, or reverse engineer the App.
+
+Use the App for any illegal purposes.
+
+Interfere with the operation of the App.
+
+3. Intellectual Property
+All content within the App, including but not limited to images, graphics, and code, is the property of the App developer or its licensors and is protected by copyright laws.
+
+4. Limitation of Liability
+The App is provided "as is" without any warranties. The developer shall not be liable for any damages arising out of the use or inability to use the App.
+
+5. Privacy Policy
+Your use of the App is also governed by our Privacy Policy. Please review it to understand how we handle your data.
+
+6. Changes to Terms
+We reserve the right to update these terms at any time. Your continued use of the App following any changes constitutes acceptance of the new terms.
+
+7. Contact Us
+If you have any questions about these Terms, please contact us at: [Your Email Address Here].
