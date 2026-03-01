@@ -1,9 +1,21 @@
 Account Deletion Request
-
 If you wish to delete your AI Art Charm Jigsaw account and all associated data (including gold coins, game progress, and your unique User ID), please follow the instructions below:
- 
 
-Manual Request: If you have uninstalled the app and wish to request data deletion, please email us at:hoaihubdev@gmail.com.
+How to Request Data Deletion:
 
+Manual Request via Email: Please send an email to hoaihubdev@gmail.com with the subject line "Account Deletion Request".
 
-Upon receiving your request, we will process the deletion within 7 business days.
+Required Information: To help us identify your account, please include your User ID (UID) in the email.
+
+Note: Since this app uses anonymous login, your User ID is the only way we can locate your specific game data in our database. You can find your User ID at the bottom of the Settings menu within the app.
+
+Data that will be permanently deleted:
+
+Your unique Firebase User ID (UID).
+
+Your virtual currency balance (Gold Coins).
+
+Your game progress, gallery unlocks.
+
+Processing Time:
+Upon receiving your request with a valid User ID, we will verify and process the deletion of all associated data within 7 business days.
