@@ -21,6 +21,8 @@ Image and Video Content: All portrait images and videos in this app are generate
 
 Nature of Content: These images are purely fictional representations and do not depict real individuals.
 
+Ownership and Source: All AI-generated images are created by the developer using Grok AI tools and are not sourced from third-party copyrighted materials.
+
 Compliance: We ensure that all AI-generated content adheres to Google Play's policies regarding safe and appropriate content.
 
 4. Data Deletion and Security
